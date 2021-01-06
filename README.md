@@ -1,1 +1,1 @@
-# LeNet_VGG
+# LeNet and VGG by PyTorch in Jupyter Notebook
